@@ -5,9 +5,9 @@ Hier diverse algoritmen zoals door mij gemaakt tijdens de minor Algoritmiek, geg
 ## Categorieën
 *Klik op 1 van de onderstaande mappen en bestanden om er direct heen te gaan*
 
-### [Binary Search](Binary%20Search/)
-- [README.md](Binary%20Search/README.md)
-- [schijven.py](Binary%20Search/schijven.py) – bepaal het aantal schijven per steunblok
+### [Binary search](Binary%20search/)
+- [README.md](Binary%20search/README.md)
+- [schijven.py](Binary%20search/schijven.py) – bepaal het aantal schijven per steunblok
 
 ### [Gretige algoritmen](Gretige%algoritmen/)
 - [README.md](Gretige%20algoritmen/README.md)
