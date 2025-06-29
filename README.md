@@ -4,8 +4,8 @@ Hier diverse voorbeelden van verschillende algoritmes, zoals geschreven als onde
 
 ## Categorieën
 
-### Binary Search
-- [Schijven tellen](binary_search/binary_search_schijven.py)
+### [Binary Search](Binary%20Search/)
+- [schijven.py](Binary%20Search/schijven.py) – bepaal het aantal schijven per steunblok
 
 ### Recursief
 - Toren van Hanoi
