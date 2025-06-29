@@ -1,4 +1,4 @@
-# Algoritmiek
+# Algoritmiek: Recursief
 Een recursief algoritme is een algoritme dat zichzelf aanroept om een kleiner deel van het probleem op te lossen. Het idee is: om een groot probleem op te lossen, los ik eerst een kleiner probleem op dat er sterk op lijkt.
 Een recursief algoritme bestaat meestal uit:
 - Basisgeval (stopt de recursie)
@@ -18,7 +18,7 @@ De kracht van de recursieve oplossing ligt in het opsplitsen van het probleem in
 - Verplaats de bovenste n-1 schijven van A naar B (doel tijdelijk als hulp).
 - Verplaats de grootste schijf (n) van A naar C.
 - Verplaats de n-1 schijven van B naar C (bron tijdelijk als hulp).  
-Deze drie stappen worden telkens opnieuw toegepast op een kleinere set schijven, totdat je nog maar 1 schijf hebt de basisconditie (want n=1 geeft altijd oplossing 1). Buiten scope van deze repo, maar vind hierbij de gesloten formule voor T(n), het wiskundig bewijs en de tijdcomplexiteit.
-In dit programma worden zowel het aantal stappen als de stappen recursief uitgerekent en getoond.
+Deze drie stappen worden telkens opnieuw toegepast op een kleinere set schijven, totdat je nog maar 1 schijf hebt: de basisconditie (want n=1 geeft altijd oplossing 1). Buiten scope van deze repo, maar vind hierbij de gesloten formule voor T(n), het wiskundig bewijs en de tijdcomplexiteit.
+In dit programma worden zowel het aantal als de stappen recursief uitgerekent en getoond.
 
 ```bash
