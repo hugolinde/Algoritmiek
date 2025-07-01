@@ -7,9 +7,15 @@ Kenmerken
 - Geen backtracking of tussenopslag nodig
 - Werkt alleen correct als het probleem de greedy-eigenschap heeft: een lokaal optimum leidt tot het globale optimum
 
-## Problemen
-- Wijnexpert
-- Windmolens plaatsen
+## Probleem: goedkoop wijn inkopen
+*Programma: wijnexpert.py*
+
+Je wil C flessen van een specifieke champagne kopen voor oudjaarsavond. Er zijn n winkels waar je deze champagne kan kopen. 
+Voor elke winkel i weten we de prijs p_i en de hoeveelheid flessen die ze op voorraad hebben c_i.
+Wat is een goede gretige strategie om de kosten te minimaliseren?
+Antwoord: bezoek de winkels op volgorde van aflopende prijs. Tijdcomplexiteit O(n log n)
+
+## Probleem: windmolens plaatsen
 - ...
 
 ```bash
