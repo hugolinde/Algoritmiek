@@ -11,7 +11,7 @@ Hier diverse algoritmen zoals door mij gemaakt tijdens de minor Algoritmiek, geg
 ### Gretige algoritmen
 - [README.md](Gretige%20algoritmen/README.md)
 - [Wijnexpert](Gretige%20algoritmen/wijnexpert.py) – koop je wijn gretig in voor het minste geld
-- Windmolens plaatsen
+- [Windmolens plaatsen](Gretige%20algoritmen/windmolen.py) – plaats het maximaal mogelijk aantal windmolens
 - ...
 
 ### Recursief
