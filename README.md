@@ -12,7 +12,7 @@ Hier diverse algoritmen zoals door mij gemaakt tijdens de minor Algoritmiek, geg
 - [README.md](Gretige%20algoritmen/README.md)
 - [Wijnexpert](Gretige%20algoritmen/wijnexpert.py) – koop je wijn gretig in voor het minste geld
 - [Windmolens plaatsen](Gretige%20algoritmen/windmolen.py) – plaats het maximaal mogelijk aantal windmolens
-- ...
+- [Dijkstra](Gretige%20algoritmen/dijkstra.py) – geeft kortste afstanden van beginpunt naar andere knopen in een gewogen graaf 
 
 ### Recursief
 - [README.md](Recursief/README.md)
