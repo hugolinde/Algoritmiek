@@ -25,8 +25,8 @@ Antwoord: kies telkens de eerstvolgende plek die mogelijk is, vanaf de laatst ge
 *Programma: dijkstra.py*
 
 Dijkstra's algoritme bepaalt de kortste paden van een gekozen beginpunt naar alle andere knopen in een gewogen graaf zonder negatieve gewichten, door gretig telkens de nog niet verwerkte knoop met de kleinste bekende afstand te kiezen en van daaruit de afstanden naar aangrenzende knopen bij te werken als er een kortere route wordt gevonden.  
-Deze kortste of efficiëntste paden zijn bijvoorbeeld nuttig bij navigatiesystemen (routeplanning in Google Maps, TomTom, etc.), netwerken en internetverkeer, logistiek en planning (optimaliseren van routes voor bezorgdiensten, magazijnrobots of transportschema’s), en AI / ML (graf-gebaseerde modellen, zoals grafneuralen netwerken, voor het analyseren van connecties of paden).  
+Deze kortste of efficiëntste paden zijn bijvoorbeeld nuttig bij navigatiesystemen (routeplanning in Google Maps, TomTom, etc.), netwerken en internetverkeer, logistiek en planning (optimaliseren van routes voor bezorgdiensten, magazijnrobots of transportschema’s), en AI / ML (graaf-gebaseerde modellen, zoals graafneuralen netwerken, voor het analyseren van connecties of paden).  
 
-Edsger W. Dijkstra (1930–2002) was een invloedrijke Nederlandse informaticus en wiskundige, wereldwijd bekend als een pionier in de grondslagen van de computerwetenschap. Hij schreef het algoritme in 1955.
+Edsger W. Dijkstra (1930–2002) was een invloedrijke Nederlandse informaticus en wiskundige, wereldwijd bekend als een pionier in de grondslagen van de computerwetenschap. Hij schreef dit beroemde algoritme in 1955.
 
 ```bash
