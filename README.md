@@ -1,6 +1,7 @@
 # Algoritmiek
 
-Hier een greep uit de diverse algoritmen die ik heb gemaakt tijdens de minor Algoritmiek, gegeven door docent TU Delft.
+Hier een greep uit de diverse algoritmen die ik heb gemaakt tijdens de minor Algoritmiek, gegeven door docent TU Delft. 
+Hij is nog niet compleet, wordt aan gewerkt (als ik tijd heb)..
 
 ## Categorieën
 
